@@ -1,0 +1,62 @@
+@font-face {
+	font-family: 'iconfont';
+	/* project id 2465231 */
+	src: url('https://at.alicdn.com/t/font_2465231_bfnt57whkn.eot');
+	src: url('https://at.alicdn.com/t/font_2465231_bfnt57whkn.eot?#iefix') format('embedded-opentype'),
+		url('https://at.alicdn.com/t/font_2465231_bfnt57whkn.woff2') format('woff2'),
+		url('https://at.alicdn.com/t/font_2465231_bfnt57whkn.woff') format('woff'),
+		url('https://at.alicdn.com/t/font_2465231_bfnt57whkn.ttf') format('truetype'),
+		url('https://at.alicdn.com/t/font_2465231_bfnt57whkn.svg#iconfont') format('svg');
+}
+
+.iconfont {
+	font-family: "iconfont" !important;
+	font-size: 16px;
+	font-style: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-search:before {
+	content: "\e630";
+}
+
+.icon-add:before {
+	content: "\e742";
+}
+
+.icon-back:before {
+	content: "\e635";
+}
+
+.icon-shenglvehao:before {
+	content: "\e708";
+}
+
+.icon-notice:before {
+	content: "\e68c";
+}
+
+.icon-right:before {
+	content: "\e628";
+}
+
+.icon-voice-circle:before {
+	content: "\e67f";
+}
+
+.icon-add-circle:before {
+	content: "\e8f0";
+}
+
+.icon-smile:before {
+	content: "\e737";
+}
+
+.icon-keyboard:before {
+	content: "\e679";
+}
+
+.icon-delete:before {
+	content: "\e620";
+}
